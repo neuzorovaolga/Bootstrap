@@ -1,0 +1,29 @@
+.navbar {
+  background: #3d699b65;
+}
+.nav-link,
+.navbar-brand {
+  color: #f4f4f4;
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  background: #f4f4f4;
+  color: #4688c56b;
+}
+
+.info {
+  background-image: url(../img/1616967146_6-p-svetlo-serii-fon-6.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+
+.spisok,
+.recomend {
+  margin-top: 35px;
+}
+
+body {
+  background-color: seashell;
+}
